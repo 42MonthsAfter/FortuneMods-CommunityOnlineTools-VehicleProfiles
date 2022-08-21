@@ -1,0 +1,20 @@
+{
+    "VehicleName": "PONTIAC",
+    "DisplayName": "PONTIAC",
+    "Parts": [
+        "PONTIAC_Wheel",
+        "PONTIAC_Wheel",
+        "PONTIAC_Wheel",
+        "PONTIAC_Wheel",
+        "PONTIAC_Wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "PONTIAC_Doors_trunk",
+        "PONTIAC_Doors_hood",
+        "PONTIAC_Doors_coDriver",
+        "PONTIAC_Doors_Driver"
+    ]
+}

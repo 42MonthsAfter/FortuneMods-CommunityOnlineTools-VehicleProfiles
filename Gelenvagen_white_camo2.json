@@ -1,0 +1,24 @@
+{
+    "VehicleName": "Gelenvagen_white_camo2",
+    "DisplayName": "Gelenvagen_white_camo2",
+    "Parts": [
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Doors_Driver_white_camo2",
+        "Gelenvagen_Doors_coDriver_white_camo2",
+        "Gelenvagen_Doors_cargo1_white_camo2",
+        "Gelenvagen_Doors_cargo2_white_camo2",
+        "Gelenvagen_Doors_hood_white_camo2",
+        "Gelenvagen_Doors_trunk_white_camo2",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

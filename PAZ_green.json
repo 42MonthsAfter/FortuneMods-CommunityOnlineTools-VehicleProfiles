@@ -1,0 +1,20 @@
+{
+    "VehicleName": "PAZ_green",
+    "DisplayName": "PAZ_green",
+    "Parts": [
+        "PAZ_Wheel",
+        "PAZ_Wheel",
+        "PAZ_Wheel",
+        "PAZ_Wheel_2",
+        "PAZ_Wheel_2",
+        "PAZ_Doors_Driver_green",
+        "PAZ_Doors_cargo1_green",
+        "PAZ_Doors_cargo2_green",
+        "PAZ_Doors_hood_green",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

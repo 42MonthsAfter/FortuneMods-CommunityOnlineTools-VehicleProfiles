@@ -1,0 +1,24 @@
+{
+    "VehicleName": "LandCruiser",
+    "DisplayName": "LandCruiser",
+    "Parts": [
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Doors_Driver",
+        "LandCruiser_Doors_coDriver",
+        "LandCruiser_Doors_hood",
+        "LandCruiser_Doors_cargo1",
+        "LandCruiser_Doors_cargo2",
+        "LandCruiser_Doors_cargo3",
+        "LandCruiser_Doors_cargo4",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

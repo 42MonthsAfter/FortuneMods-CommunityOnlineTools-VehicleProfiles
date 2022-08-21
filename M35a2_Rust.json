@@ -1,0 +1,23 @@
+{
+    "VehicleName": "M35a2_Rust",
+    "DisplayName": "M35a2_Rust",
+    "Parts": [
+        "M35a2_wheel",
+        "M35a2_wheel",
+        "M35a2_wheel",
+        "M35a2_wheeldouble",
+        "M35a2_wheeldouble",
+        "M35a2_wheeldouble",
+        "M35a2_wheeldouble",
+        "M35a2_doors_driver_Rust",
+        "M35a2_doors_codriver_Rust",
+        "M35a2_doors_hood_Rust",
+        "M35a2_doors_trunk_Rust",
+        "m35a2_tent_Rust",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

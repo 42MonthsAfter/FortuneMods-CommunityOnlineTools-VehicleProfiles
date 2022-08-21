@@ -1,0 +1,22 @@
+{
+    "VehicleName": "RAPTOR_blue",
+    "DisplayName": "RAPTOR_blue",
+    "Parts": [
+        "RAPTOR_Wheel",
+        "RAPTOR_Wheel",
+        "RAPTOR_Wheel",
+        "RAPTOR_Wheel",
+        "RAPTOR_Wheel",
+        "RAPTOR_Doors_Driver_blue",
+        "RAPTOR_Doors_coDriver_blue",
+        "RAPTOR_Doors_cargo1_blue",
+        "RAPTOR_Doors_cargo2_blue",
+        "RAPTOR_Doors_hood_blue",
+        "RAPTOR_Doors_trunk_blue",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

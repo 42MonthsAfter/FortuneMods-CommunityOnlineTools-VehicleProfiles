@@ -1,0 +1,23 @@
+{
+    "VehicleName": "HAMMER_H1_black",
+    "DisplayName": "HAMMER_H1_black",
+    "Parts": [
+        "HAMMER_Wheel",
+        "HAMMER_Wheel",
+        "HAMMER_Wheel",
+        "HAMMER_Wheel",
+        "HAMMER_Wheel",
+        "HAMMER_Doors_Driver_black",
+        "HAMMER_Doors_coDriver_black",
+        "HAMMER_Doors_cargo1_black",
+        "HAMMER_Doors_cargo2_black",
+        "HAMMER_Doors_hood_black",
+        "HAMMER_Doors_trunk_black",
+        "HAMMER_Doors_cargo3_black",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

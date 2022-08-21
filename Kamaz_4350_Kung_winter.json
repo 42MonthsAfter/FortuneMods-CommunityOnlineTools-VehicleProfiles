@@ -1,0 +1,21 @@
+{
+    "VehicleName": "Kamaz_4350_Kung_winter",
+    "DisplayName": "Kamaz_4350_Kung_winter",
+    "Parts": [
+        "Kamaz_4350_Wheel",
+        "Kamaz_4350_Wheel",
+        "Kamaz_4350_Wheel",
+        "Kamaz_4350_Wheel",
+        "Kamaz_4350_Wheel",
+        "Kamaz_4350_Doors_Driver_winter",
+        "Kamaz_4350_Doors_coDriver_winter",
+        "Kamaz_4350_Doors_cargo1_winter",
+        "Kamaz_4350_Doors_cargo2_winter",
+        "Kamaz_4350_Doors_cargo3_winter",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

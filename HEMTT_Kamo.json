@@ -1,0 +1,25 @@
+{
+    "VehicleName": "HEMTT_Kamo",
+    "DisplayName": "HEMTT_Kamo",
+    "Parts": [
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HEMTT_Doors_Driver_Kamo",
+        "HEMTT_Doors_coDriver_Kamo",
+        "HEMTT_Doors_trunk_Kamo",
+        "HEMTT_tent_Kamo",
+        "HEMTT_Doors_hood3_Kamo",
+        "HEMTT_Doors_hood2_Kamo",
+        "HEMTT_Doors_hood1_Kamo"
+    ]
+}

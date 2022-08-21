@@ -1,0 +1,24 @@
+{
+    "VehicleName": "LandCruiser_blue",
+    "DisplayName": "LandCruiser_blue",
+    "Parts": [
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Doors_Driver_blue",
+        "LandCruiser_Doors_coDriver_blue",
+        "LandCruiser_Doors_hood_blue",
+        "LandCruiser_Doors_cargo1_blue",
+        "LandCruiser_Doors_cargo2_blue",
+        "LandCruiser_Doors_cargo3_blue",
+        "LandCruiser_Doors_cargo4_blue",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

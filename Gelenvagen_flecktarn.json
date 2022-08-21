@@ -1,0 +1,24 @@
+{
+    "VehicleName": "Gelenvagen_flecktarn",
+    "DisplayName": "Gelenvagen_flecktarn",
+    "Parts": [
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Doors_Driver_flecktarn",
+        "Gelenvagen_Doors_coDriver_flecktarn",
+        "Gelenvagen_Doors_cargo1_flecktarn",
+        "Gelenvagen_Doors_cargo2_flecktarn",
+        "Gelenvagen_Doors_hood_flecktarn",
+        "Gelenvagen_Doors_trunk_flecktarn",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "VehicleName": "Opel_Astra_black",
+    "DisplayName": "Opel_Astra_black",
+    "Parts": [
+        "Opel_Astra_Wheel",
+        "Opel_Astra_Wheel",
+        "Opel_Astra_Wheel",
+        "Opel_Astra_Wheel",
+        "Opel_Astra_Wheel",
+        "Opel_Astra_Doors_Driver_black",
+        "Opel_Astra_Doors_coDriver_black",
+        "Opel_Astra_Doors_cargo1_black",
+        "Opel_Astra_Doors_cargo2_black",
+        "Opel_Astra_Doors_hood_black",
+        "Opel_Astra_Doors_trunk_black",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

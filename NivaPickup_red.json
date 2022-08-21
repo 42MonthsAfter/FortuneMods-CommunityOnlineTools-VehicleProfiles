@@ -1,0 +1,20 @@
+{
+    "VehicleName": "NivaPickup_red",
+    "DisplayName": "NivaPickup_red",
+    "Parts": [
+        "NivaPickup_Wheel",
+        "NivaPickup_Wheel",
+        "NivaPickup_Wheel",
+        "NivaPickup_Wheel",
+        "NivaPickup_Wheel",
+        "NivaPickup_Doors_Driver_red",
+        "NivaPickup_Doors_coDriver_red",
+        "NivaPickup_Doors_hood_red",
+        "NivaPickup_Doors_trunk_red",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

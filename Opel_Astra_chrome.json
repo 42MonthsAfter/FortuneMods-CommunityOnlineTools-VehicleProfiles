@@ -1,0 +1,22 @@
+{
+    "VehicleName": "Opel_Astra_chrome",
+    "DisplayName": "Opel_Astra_chrome",
+    "Parts": [
+        "Opel_Astra_Wheel",
+        "Opel_Astra_Wheel",
+        "Opel_Astra_Wheel",
+        "Opel_Astra_Wheel",
+        "Opel_Astra_Wheel",
+        "Opel_Astra_Doors_Driver_chrome",
+        "Opel_Astra_Doors_coDriver_chrome",
+        "Opel_Astra_Doors_cargo1_chrome",
+        "Opel_Astra_Doors_cargo2_chrome",
+        "Opel_Astra_Doors_hood_chrome",
+        "Opel_Astra_Doors_trunk_chrome",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

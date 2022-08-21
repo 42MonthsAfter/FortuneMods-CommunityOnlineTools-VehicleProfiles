@@ -1,0 +1,22 @@
+{
+    "VehicleName": "Kraz_6322",
+    "DisplayName": "Kraz_6322",
+    "Parts": [
+        "Kraz_6322_Wheel",
+        "Kraz_6322_Wheel",
+        "Kraz_6322_Wheel",
+        "Kraz_6322_Wheel",
+        "Kraz_6322_Wheel",
+        "Kraz_6322_Wheel",
+        "Kraz_6322_Wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Kraz_6322_Doors_hood",
+        "Kraz_6322_Doors_cargo1",
+        "Kraz_6322_Doors_coDriver",
+        "Kraz_6322_Doors_Driver"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "VehicleName": "MUSTANG_rust",
+    "DisplayName": "MUSTANG_rust",
+    "Parts": [
+        "MUSTANG_Wheel",
+        "MUSTANG_Wheel",
+        "MUSTANG_Wheel",
+        "MUSTANG_Wheel",
+        "MUSTANG_Wheel",
+        "MUSTANG_Doors_trunk_rust",
+        "MUSTANG_Doors_hood_rust",
+        "MUSTANG_Doors_coDriver_rust",
+        "MUSTANG_Doors_Driver_rust",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "VehicleName": "Opel_Astra_camo",
+    "DisplayName": "Opel_Astra_camo",
+    "Parts": [
+        "Opel_Astra_Wheel",
+        "Opel_Astra_Wheel",
+        "Opel_Astra_Wheel",
+        "Opel_Astra_Wheel",
+        "Opel_Astra_Wheel",
+        "Opel_Astra_Doors_Driver_camo",
+        "Opel_Astra_Doors_coDriver_camo",
+        "Opel_Astra_Doors_cargo1_camo",
+        "Opel_Astra_Doors_cargo2_camo",
+        "Opel_Astra_Doors_hood_camo",
+        "Opel_Astra_Doors_trunk_camo",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

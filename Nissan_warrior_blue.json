@@ -1,0 +1,22 @@
+{
+    "VehicleName": "Nissan_warrior_blue",
+    "DisplayName": "Nissan_warrior_blue",
+    "Parts": [
+        "Nissan_warrior_Wheel",
+        "Nissan_warrior_Wheel",
+        "Nissan_warrior_Wheel",
+        "Nissan_warrior_Wheel",
+        "Nissan_warrior_Wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Nissan_warrior_Doors_Driver_blue",
+        "Nissan_warrior_Doors_coDriver_blue",
+        "Nissan_warrior_Doors_cargo1_blue",
+        "Nissan_warrior_Doors_hood_blue",
+        "Nissan_warrior_Doors_trunk_blue",
+        "Nissan_warrior_Doors_cargo2_blue"
+    ]
+}

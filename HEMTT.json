@@ -1,0 +1,25 @@
+{
+    "VehicleName": "HEMTT",
+    "DisplayName": "HEMTT",
+    "Parts": [
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HEMTT_Doors_Driver",
+        "HEMTT_Doors_coDriver",
+        "HEMTT_Doors_trunk",
+        "HEMTT_tent",
+        "HEMTT_Doors_hood3",
+        "HEMTT_Doors_hood2",
+        "HEMTT_Doors_hood1"
+    ]
+}

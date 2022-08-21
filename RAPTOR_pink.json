@@ -1,0 +1,22 @@
+{
+    "VehicleName": "RAPTOR_pink",
+    "DisplayName": "RAPTOR_pink",
+    "Parts": [
+        "RAPTOR_Wheel",
+        "RAPTOR_Wheel",
+        "RAPTOR_Wheel",
+        "RAPTOR_Wheel",
+        "RAPTOR_Wheel",
+        "RAPTOR_Doors_Driver_pink",
+        "RAPTOR_Doors_coDriver_pink",
+        "RAPTOR_Doors_cargo1_pink",
+        "RAPTOR_Doors_cargo2_pink",
+        "RAPTOR_Doors_hood_pink",
+        "RAPTOR_Doors_trunk_pink",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

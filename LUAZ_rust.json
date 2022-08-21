@@ -1,0 +1,21 @@
+{
+    "VehicleName": "LUAZ_rust",
+    "DisplayName": "LUAZ_rust",
+    "Parts": [
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "LUAZ_Doors_Driver_rust",
+        "LUAZ_Doors_coDriver_rust",
+        "LUAZ_Doors_hood_rust",
+        "LUAZ_Doors_trunk_rust",
+        "LUAZ_tent_rust",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

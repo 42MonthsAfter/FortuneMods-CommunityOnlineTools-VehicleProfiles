@@ -1,0 +1,24 @@
+{
+    "VehicleName": "LandCruiser_GVINLORD",
+    "DisplayName": "LandCruiser_GVINLORD",
+    "Parts": [
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Doors_Driver_GVINLORD",
+        "LandCruiser_Doors_coDriver_GVINLORD",
+        "LandCruiser_Doors_hood_GVINLORD",
+        "LandCruiser_Doors_cargo1_GVINLORD",
+        "LandCruiser_Doors_cargo2_GVINLORD",
+        "LandCruiser_Doors_cargo3_GVINLORD",
+        "LandCruiser_Doors_cargo4_GVINLORD",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

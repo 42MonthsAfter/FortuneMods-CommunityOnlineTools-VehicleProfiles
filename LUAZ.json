@@ -1,0 +1,21 @@
+{
+    "VehicleName": "LUAZ",
+    "DisplayName": "LUAZ",
+    "Parts": [
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "HatchbackWheel",
+        "LUAZ_Doors_Driver",
+        "LUAZ_Doors_coDriver",
+        "LUAZ_Doors_hood",
+        "LUAZ_Doors_trunk",
+        "LUAZ_tent",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

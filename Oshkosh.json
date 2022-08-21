@@ -1,0 +1,23 @@
+{
+    "VehicleName": "Oshkosh",
+    "DisplayName": "Oshkosh",
+    "Parts": [
+        "Oshkosh_Wheel",
+        "Oshkosh_Wheel",
+        "Oshkosh_Wheel",
+        "Oshkosh_Wheel",
+        "Oshkosh_Wheel",
+        "Oshkosh_Doors_Driver",
+        "Oshkosh_Doors_coDriver",
+        "Oshkosh_Doors_hood",
+        "Oshkosh_Doors_cargo1",
+        "Oshkosh_Doors_cargo2",
+        "Oshkosh_Doors_cargo3",
+        "Oshkosh_Doors_trunk",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

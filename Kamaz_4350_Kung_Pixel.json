@@ -1,0 +1,21 @@
+{
+    "VehicleName": "Kamaz_4350_Kung_Pixel",
+    "DisplayName": "Kamaz_4350_Kung_Pixel",
+    "Parts": [
+        "Kamaz_4350_Wheel",
+        "Kamaz_4350_Wheel",
+        "Kamaz_4350_Wheel",
+        "Kamaz_4350_Wheel",
+        "Kamaz_4350_Wheel",
+        "Kamaz_4350_Doors_Driver_Pixel",
+        "Kamaz_4350_Doors_coDriver_Pixel",
+        "Kamaz_4350_Doors_cargo1_Pixel",
+        "Kamaz_4350_Doors_cargo2_Pixel",
+        "Kamaz_4350_Doors_cargo3_Pixel",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

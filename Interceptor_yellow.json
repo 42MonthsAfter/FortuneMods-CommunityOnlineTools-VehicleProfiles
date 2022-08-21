@@ -1,0 +1,19 @@
+{
+    "VehicleName": "Interceptor_yellow",
+    "DisplayName": "Interceptor_yellow",
+    "Parts": [
+        "Interceptor_Wheel",
+        "Interceptor_Wheel",
+        "Interceptor_Wheel",
+        "Interceptor_Wheel",
+        "Interceptor_Wheel",
+        "Interceptor_Doors_Driver_yellow",
+        "Interceptor_Doors_coDriver_yellow",
+        "Interceptor_Doors_hood_yellow",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "VehicleName": "HEMTT_white",
+    "DisplayName": "HEMTT_white",
+    "Parts": [
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HEMTT_Doors_Driver_white",
+        "HEMTT_Doors_coDriver_white",
+        "HEMTT_Doors_trunk_white",
+        "HEMTT_tent_white",
+        "HEMTT_Doors_hood3_white",
+        "HEMTT_Doors_hood2_white",
+        "HEMTT_Doors_hood1_white"
+    ]
+}

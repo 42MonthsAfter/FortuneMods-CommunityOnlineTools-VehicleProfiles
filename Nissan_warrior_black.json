@@ -1,0 +1,22 @@
+{
+    "VehicleName": "Nissan_warrior_black",
+    "DisplayName": "Nissan_warrior_black",
+    "Parts": [
+        "Nissan_warrior_Wheel",
+        "Nissan_warrior_Wheel",
+        "Nissan_warrior_Wheel",
+        "Nissan_warrior_Wheel",
+        "Nissan_warrior_Wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Nissan_warrior_Doors_Driver_black",
+        "Nissan_warrior_Doors_coDriver_black",
+        "Nissan_warrior_Doors_cargo1_black",
+        "Nissan_warrior_Doors_hood_black",
+        "Nissan_warrior_Doors_trunk_black",
+        "Nissan_warrior_Doors_cargo2_black"
+    ]
+}

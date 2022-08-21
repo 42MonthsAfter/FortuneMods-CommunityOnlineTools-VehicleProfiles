@@ -1,0 +1,22 @@
+{
+    "VehicleName": "Range_Rover",
+    "DisplayName": "Range_Rover",
+    "Parts": [
+        "Range_Rover_Wheel",
+        "Range_Rover_Wheel",
+        "Range_Rover_Wheel",
+        "Range_Rover_Wheel",
+        "Range_Rover_Wheel",
+        "Range_Rover_Doors_Driver",
+        "Range_Rover_Doors_coDriver",
+        "Range_Rover_Doors_cargo1",
+        "Range_Rover_Doors_cargo2",
+        "Range_Rover_Doors_hood",
+        "Range_Rover_Doors_trunk",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

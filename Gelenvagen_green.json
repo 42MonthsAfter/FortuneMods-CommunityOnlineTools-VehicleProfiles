@@ -1,0 +1,24 @@
+{
+    "VehicleName": "Gelenvagen_green",
+    "DisplayName": "Gelenvagen_green",
+    "Parts": [
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Doors_Driver_green",
+        "Gelenvagen_Doors_coDriver_green",
+        "Gelenvagen_Doors_cargo1_green",
+        "Gelenvagen_Doors_cargo2_green",
+        "Gelenvagen_Doors_hood_green",
+        "Gelenvagen_Doors_trunk_green",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

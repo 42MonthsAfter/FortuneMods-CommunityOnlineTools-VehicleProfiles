@@ -1,0 +1,24 @@
+{
+    "VehicleName": "Gelenvagen_carbon",
+    "DisplayName": "Gelenvagen_carbon",
+    "Parts": [
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Wheel",
+        "Gelenvagen_Doors_Driver_carbon",
+        "Gelenvagen_Doors_coDriver_carbon",
+        "Gelenvagen_Doors_cargo1_carbon",
+        "Gelenvagen_Doors_cargo2_carbon",
+        "Gelenvagen_Doors_hood_carbon",
+        "Gelenvagen_Doors_trunk_carbon",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

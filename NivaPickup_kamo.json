@@ -1,0 +1,20 @@
+{
+    "VehicleName": "NivaPickup_kamo",
+    "DisplayName": "NivaPickup_kamo",
+    "Parts": [
+        "NivaPickup_Wheel",
+        "NivaPickup_Wheel",
+        "NivaPickup_Wheel",
+        "NivaPickup_Wheel",
+        "NivaPickup_Wheel",
+        "NivaPickup_Doors_Driver_kamo",
+        "NivaPickup_Doors_coDriver_kamo",
+        "NivaPickup_Doors_hood_kamo",
+        "NivaPickup_Doors_trunk_kamo",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "VehicleName": "MUSTANG",
+    "DisplayName": "MUSTANG",
+    "Parts": [
+        "MUSTANG_Wheel",
+        "MUSTANG_Wheel",
+        "MUSTANG_Wheel",
+        "MUSTANG_Wheel",
+        "MUSTANG_Wheel",
+        "MUSTANG_Doors_trunk",
+        "MUSTANG_Doors_hood",
+        "MUSTANG_Doors_coDriver",
+        "MUSTANG_Doors_Driver",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

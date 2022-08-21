@@ -1,0 +1,22 @@
+{
+    "VehicleName": "RAPTOR",
+    "DisplayName": "RAPTOR",
+    "Parts": [
+        "RAPTOR_Wheel",
+        "RAPTOR_Wheel",
+        "RAPTOR_Wheel",
+        "RAPTOR_Wheel",
+        "RAPTOR_Wheel",
+        "RAPTOR_Doors_Driver",
+        "RAPTOR_Doors_coDriver",
+        "RAPTOR_Doors_cargo1",
+        "RAPTOR_Doors_cargo2",
+        "RAPTOR_Doors_hood",
+        "RAPTOR_Doors_trunk",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

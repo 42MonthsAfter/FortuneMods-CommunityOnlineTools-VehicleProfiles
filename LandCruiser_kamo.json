@@ -1,0 +1,24 @@
+{
+    "VehicleName": "LandCruiser_kamo",
+    "DisplayName": "LandCruiser_kamo",
+    "Parts": [
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Wheel",
+        "LandCruiser_Doors_Driver_kamo",
+        "LandCruiser_Doors_coDriver_kamo",
+        "LandCruiser_Doors_hood_kamo",
+        "LandCruiser_Doors_cargo1_kamo",
+        "LandCruiser_Doors_cargo2_kamo",
+        "LandCruiser_Doors_cargo3_kamo",
+        "LandCruiser_Doors_cargo4_kamo",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

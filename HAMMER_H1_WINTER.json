@@ -1,0 +1,23 @@
+{
+    "VehicleName": "HAMMER_H1_WINTER",
+    "DisplayName": "HAMMER_H1_WINTER",
+    "Parts": [
+        "HAMMER_Wheel",
+        "HAMMER_Wheel",
+        "HAMMER_Wheel",
+        "HAMMER_Wheel",
+        "HAMMER_Wheel",
+        "HAMMER_Doors_Driver_WINTER",
+        "HAMMER_Doors_coDriver_WINTER",
+        "HAMMER_Doors_cargo1_WINTER",
+        "HAMMER_Doors_cargo2_WINTER",
+        "HAMMER_Doors_hood_WINTER",
+        "HAMMER_Doors_trunk_WINTER",
+        "HAMMER_Doors_cargo3_WINTER",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

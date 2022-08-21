@@ -1,0 +1,23 @@
+{
+    "VehicleName": "Kamaz_Typhoon_green",
+    "DisplayName": "Kamaz_Typhoon_green",
+    "Parts": [
+        "Kamaz_Typhoon_Wheel",
+        "Kamaz_Typhoon_Wheel",
+        "Kamaz_Typhoon_Wheel",
+        "Kamaz_Typhoon_Wheel",
+        "Kamaz_Typhoon_Wheel",
+        "Kamaz_Typhoon_Wheel",
+        "Kamaz_Typhoon_Wheel",
+        "Kamaz_Typhoon_Doors_Driver_green",
+        "Kamaz_Typhoon_Doors_coDriver_green",
+        "Kamaz_Typhoon_Doors_cargo1_green",
+        "Kamaz_Typhoon_Doors_trunk_green",
+        "Kamaz_Typhoon_tent_green",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

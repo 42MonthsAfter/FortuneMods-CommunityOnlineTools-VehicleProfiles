@@ -1,0 +1,25 @@
+{
+    "VehicleName": "HEMTT_rust",
+    "DisplayName": "HEMTT_rust",
+    "Parts": [
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "HEMTT_Wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HEMTT_Doors_Driver_rust",
+        "HEMTT_Doors_coDriver_rust",
+        "HEMTT_Doors_trunk_rust",
+        "HEMTT_tent_rust",
+        "HEMTT_Doors_hood3_rust",
+        "HEMTT_Doors_hood2_rust",
+        "HEMTT_Doors_hood1_rust"
+    ]
+}

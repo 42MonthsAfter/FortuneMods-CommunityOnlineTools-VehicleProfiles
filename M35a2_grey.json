@@ -1,0 +1,23 @@
+{
+    "VehicleName": "M35a2_grey",
+    "DisplayName": "M35a2_grey",
+    "Parts": [
+        "M35a2_wheel",
+        "M35a2_wheel",
+        "M35a2_wheel",
+        "M35a2_wheeldouble",
+        "M35a2_wheeldouble",
+        "M35a2_wheeldouble",
+        "M35a2_wheeldouble",
+        "M35a2_doors_driver_grey",
+        "M35a2_doors_codriver_grey",
+        "M35a2_doors_hood_grey",
+        "M35a2_doors_trunk_grey",
+        "m35a2_tent_grey",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "VehicleName": "M35a2_Kamo",
+    "DisplayName": "M35a2_Kamo",
+    "Parts": [
+        "M35a2_wheel",
+        "M35a2_wheel",
+        "M35a2_wheel",
+        "M35a2_wheeldouble",
+        "M35a2_wheeldouble",
+        "M35a2_wheeldouble",
+        "M35a2_wheeldouble",
+        "M35a2_doors_driver_Kamo",
+        "M35a2_doors_codriver_Kamo",
+        "M35a2_doors_hood_Kamo",
+        "M35a2_doors_trunk_Kamo",
+        "m35a2_tent_Kamo",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

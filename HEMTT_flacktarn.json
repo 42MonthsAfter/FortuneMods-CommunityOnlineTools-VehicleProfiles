@@ -1,0 +1,25 @@
+{
+    "VehicleName": "HEMTT_flacktarn",
+    "DisplayName": "HEMTT_flacktarn",
+    "Parts": [
+		"HEMTT_Wheel",
+		"HEMTT_Wheel",
+		"HEMTT_Wheel",
+		"HEMTT_Wheel",
+		"HEMTT_Wheel",
+		"HEMTT_Wheel",
+		"HEMTT_Wheel",
+		"SparkPlug",
+		"CarBattery",
+		"CarRadiator",
+		"HeadlightH7",
+		"HeadlightH7",
+		"HEMTT_Doors_Driver_flacktarn",
+		"HEMTT_Doors_coDriver_flacktarn",
+		"HEMTT_Doors_trunk_flacktarn",
+		"HEMTT_tent_flacktarn",
+		"HEMTT_Doors_hood3_flacktarn",
+		"HEMTT_Doors_hood2_flacktarn",
+		"HEMTT_Doors_hood1_flacktarn"
+    ]
+}
