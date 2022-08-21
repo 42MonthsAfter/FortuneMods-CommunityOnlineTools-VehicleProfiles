@@ -1,0 +1,23 @@
+{
+    "VehicleName": "URAL_4320_Kung_blue",
+    "DisplayName": "URAL_4320_Kung_blue",
+    "Parts": [
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Doors_Driver_Kung_blue",
+        "URAL_4320_Doors_coDriver_Kung_blue",
+        "URAL_4320_Doors_hood_Kung_blue",
+        "URAL_4320_Doors_trunk_Kung_blue",
+        "URAL_4320_tent_Kung_blue",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

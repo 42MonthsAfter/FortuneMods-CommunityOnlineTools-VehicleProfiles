@@ -1,0 +1,22 @@
+{
+    "VehicleName": "SUV_WINTER",
+    "DisplayName": "SUV_WINTER",
+    "Parts": [
+        "SUV_Wheel",
+        "SUV_Wheel",
+        "SUV_Wheel",
+        "SUV_Wheel",
+        "SUV_Wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "SUV_Doors_Driver_WINTER",
+        "SUV_Doors_coDriver_WINTER",
+        "SUV_Doors_cargo1_WINTER",
+        "SUV_Doors_cargo2_WINTER",
+        "SUV_Doors_hood_WINTER",
+        "SUV_Doors_trunk_WINTER"
+    ]
+}

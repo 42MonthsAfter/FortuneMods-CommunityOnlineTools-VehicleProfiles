@@ -1,0 +1,24 @@
+{
+    "VehicleName": "TLC_200_white",
+    "DisplayName": "TLC_200_white",
+    "Parts": [
+        "TLC_200_Wheel",
+        "TLC_200_Wheel",
+        "TLC_200_Wheel",
+        "TLC_200_Wheel",
+        "TLC_200_Wheel",
+        "TLC_200_Wheel",
+        "TLC_200_Doors_Driver_white",
+        "TLC_200_Doors_coDriver_white",
+        "TLC_200_Doors_hood_white",
+        "TLC_200_Doors_cargo1_white",
+        "TLC_200_Doors_cargo2_white",
+        "TLC_200_Doors_cargo3_white",
+        "TLC_200_Doors_cargo4_white",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

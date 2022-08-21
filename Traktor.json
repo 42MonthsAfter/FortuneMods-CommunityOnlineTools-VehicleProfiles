@@ -1,0 +1,15 @@
+{
+    "VehicleName": "Traktor",
+    "DisplayName": "Traktor",
+    "Parts": [
+        "Traktor_Wheel",
+        "Traktor_Wheel",
+        "Traktor_Wheel_2",
+        "Traktor_Wheel_2",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

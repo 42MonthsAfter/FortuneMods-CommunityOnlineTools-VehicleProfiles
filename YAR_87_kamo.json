@@ -1,0 +1,25 @@
+{
+    "VehicleName": "YAR_87_kamo",
+    "DisplayName": "YAR_87_kamo",
+    "Parts": [
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Doors_Driver_kamo",
+        "YAR_87_Doors_coDriver_kamo",
+        "YAR_87_Doors_hood_kamo",
+        "YAR_87_Doors_trunk_kamo",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

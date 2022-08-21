@@ -1,0 +1,25 @@
+{
+    "VehicleName": "YAR_87_rust",
+    "DisplayName": "YAR_87_rust",
+    "Parts": [
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Doors_Driver_rust",
+        "YAR_87_Doors_coDriver_rust",
+        "YAR_87_Doors_hood_rust",
+        "YAR_87_Doors_trunk_rust",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

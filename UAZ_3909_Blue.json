@@ -1,0 +1,21 @@
+{
+    "VehicleName": "UAZ_3909_blue",
+    "DisplayName": "UAZ_3909_blue",
+    "Parts": [
+        "UAZ_3909_Wheel",
+        "UAZ_3909_Wheel",
+        "UAZ_3909_Wheel",
+        "UAZ_3909_Wheel",
+        "UAZ_3909_Doors_cargo3_blue",
+        "UAZ_3909_Doors_hood",
+        "UAZ_3909_Doors_cargo2_blue",
+        "UAZ_3909_Doors_cargo1_blue",
+        "UAZ_3909_Doors_coDriver_blue",
+        "UAZ_3909_Doors_Driver_blue",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "VehicleName": "ROVER_camo2",
+    "DisplayName": "ROVER_camo2",
+    "Parts": [
+        "ROVER_Wheel",
+        "ROVER_Wheel",
+        "ROVER_Wheel",
+        "ROVER_Wheel",
+        "ROVER_Wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "ROVER_tent",
+        "ROVER_Doors_trunk_camo2",
+        "ROVER_Doors_hood_camo2",
+        "ROVER_Doors_Driver_camo2",
+        "ROVER_Doors_coDriver_camo2"
+    ]
+}

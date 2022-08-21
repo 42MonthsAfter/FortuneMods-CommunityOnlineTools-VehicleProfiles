@@ -1,0 +1,21 @@
+{
+    "VehicleName": "ROVER_light_green",
+    "DisplayName": "ROVER_light_green",
+    "Parts": [
+		"ROVER_Wheel",
+		"ROVER_Wheel",
+		"ROVER_Wheel",
+		"ROVER_Wheel",
+		"ROVER_Wheel",
+		"SparkPlug",
+		"CarBattery",
+		"CarRadiator",
+		"HeadlightH7",
+		"HeadlightH7",
+		"ROVER_tent",
+		"ROVER_Doors_trunk_light_green",
+		"ROVER_Doors_hood_light_green",
+		"ROVER_Doors_Driver_light_green",
+		"ROVER_Doors_coDriver_light_green"
+    ]
+}

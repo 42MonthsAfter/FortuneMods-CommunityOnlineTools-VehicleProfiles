@@ -1,0 +1,24 @@
+{
+    "VehicleName": "TLC_200_kamo",
+    "DisplayName": "TLC_200_kamo",
+    "Parts": [
+        "TLC_200_Wheel",
+        "TLC_200_Wheel",
+        "TLC_200_Wheel",
+        "TLC_200_Wheel",
+        "TLC_200_Wheel",
+        "TLC_200_Wheel",
+        "TLC_200_Doors_Driver_kamo",
+        "TLC_200_Doors_coDriver_kamo",
+        "TLC_200_Doors_hood_kamo",
+        "TLC_200_Doors_cargo1_kamo",
+        "TLC_200_Doors_cargo2_kamo",
+        "TLC_200_Doors_cargo3_kamo",
+        "TLC_200_Doors_cargo4_kamo",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

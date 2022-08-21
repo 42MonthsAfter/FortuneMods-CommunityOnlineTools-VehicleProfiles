@@ -1,0 +1,21 @@
+{
+    "VehicleName": "UAZ_3909_chaki2",
+    "DisplayName": "UAZ_3909_chaki2",
+    "Parts": [
+        "UAZ_3909_Wheel",
+        "UAZ_3909_Wheel",
+        "UAZ_3909_Wheel",
+        "UAZ_3909_Wheel",
+        "UAZ_3909_Doors_cargo3_chaki2",
+        "UAZ_3909_Doors_hood",
+        "UAZ_3909_Doors_cargo2_chaki2",
+        "UAZ_3909_Doors_cargo1_chaki2",
+        "UAZ_3909_Doors_coDriver_chaki2",
+        "UAZ_3909_Doors_Driver_chaki2",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

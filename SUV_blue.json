@@ -1,0 +1,22 @@
+{
+    "VehicleName": "SUV_blue",
+    "DisplayName": "SUV_blue",
+    "Parts": [
+        "SUV_Wheel",
+        "SUV_Wheel",
+        "SUV_Wheel",
+        "SUV_Wheel",
+        "SUV_Wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "SUV_Doors_Driver_blue",
+        "SUV_Doors_coDriver_blue",
+        "SUV_Doors_cargo1_blue",
+        "SUV_Doors_cargo2_blue",
+        "SUV_Doors_hood_blue",
+        "SUV_Doors_trunk_blue"
+    ]
+}

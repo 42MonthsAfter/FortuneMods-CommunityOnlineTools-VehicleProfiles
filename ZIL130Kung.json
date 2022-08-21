@@ -1,0 +1,23 @@
+{
+    "VehicleName": "ZIL130Kung",
+    "DisplayName": "ZIL130Kung",
+    "Parts": [
+        "ZIL130_Wheel",
+        "ZIL130_Wheel",
+        "ZIL130_Wheel",
+        "ZIL130_Wheel2",
+        "ZIL130_Wheel2",
+        "ZIL130_Doors_hood",
+        "ZIL130_Doors_Driver",
+        "ZIL130_Doors_coDriver",
+        "ZIL130_Doors_cargo1",
+        "ZIL130_Doors_cargo2",
+        "ZIL130_Doors_cargo3",
+        "ZIL130_Doors_cargo4",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

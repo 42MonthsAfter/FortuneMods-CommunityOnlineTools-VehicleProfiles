@@ -1,0 +1,25 @@
+{
+    "VehicleName": "YAR_87_white",
+    "DisplayName": "YAR_87_white",
+    "Parts": [
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Wheel",
+        "YAR_87_Doors_Driver_white",
+        "YAR_87_Doors_coDriver_white",
+        "YAR_87_Doors_hood_white",
+        "YAR_87_Doors_trunk_white",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

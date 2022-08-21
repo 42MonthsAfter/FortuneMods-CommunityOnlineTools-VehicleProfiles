@@ -1,0 +1,22 @@
+{
+    "VehicleName": "SUV_white",
+    "DisplayName": "SUV_white",
+    "Parts": [
+        "SUV_Wheel",
+        "SUV_Wheel",
+        "SUV_Wheel",
+        "SUV_Wheel",
+        "SUV_Wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "SUV_Doors_Driver_white",
+        "SUV_Doors_coDriver_white",
+        "SUV_Doors_cargo1_white",
+        "SUV_Doors_cargo2_white",
+        "SUV_Doors_hood_white",
+        "SUV_Doors_trunk_white"
+    ]
+}

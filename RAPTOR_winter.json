@@ -1,0 +1,22 @@
+{
+    "VehicleName": "RAPTOR_winter",
+    "DisplayName": "RAPTOR_winter",
+    "Parts": [
+        "RAPTOR_Wheel",
+        "RAPTOR_Wheel",
+        "RAPTOR_Wheel",
+        "RAPTOR_Wheel",
+        "RAPTOR_Wheel",
+        "RAPTOR_Doors_Driver_winter",
+        "RAPTOR_Doors_coDriver_winter",
+        "RAPTOR_Doors_cargo1_winter",
+        "RAPTOR_Doors_cargo2_winter",
+        "RAPTOR_Doors_hood_winter",
+        "RAPTOR_Doors_trunk_winter",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

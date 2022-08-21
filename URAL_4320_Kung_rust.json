@@ -1,0 +1,23 @@
+{
+    "VehicleName": "URAL_4320_Kung_rust",
+    "DisplayName": "URAL_4320_Kung_rust",
+    "Parts": [
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Doors_Driver_Kung_rust",
+        "URAL_4320_Doors_coDriver_Kung_rust",
+        "URAL_4320_Doors_hood_Kung_rust",
+        "URAL_4320_Doors_trunk_Kung_rust",
+        "URAL_4320_tent_Kung_rust",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

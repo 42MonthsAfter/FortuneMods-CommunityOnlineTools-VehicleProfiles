@@ -1,0 +1,23 @@
+{
+    "VehicleName": "UAZ469_offroad",
+    "DisplayName": "UAZ469_offroad",
+    "Parts": [
+        "UAZ469_offroad_Wheel",
+        "UAZ469_offroad_Wheel",
+        "UAZ469_offroad_Wheel",
+        "UAZ469_offroad_Wheel",
+        "UAZ469_offroad_Wheel",
+        "UAZ469_offroad_Doors_Driver",
+        "UAZ469_offroad_Doors_coDriver",
+        "UAZ469_offroad_Doors_cargo1",
+        "UAZ469_offroad_Doors_cargo2",
+        "UAZ469_offroad_Doors_cargo3",
+        "UAZ469_offroad_Doors_hood",
+        "UAZ469_offroad_Doors_trunk",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

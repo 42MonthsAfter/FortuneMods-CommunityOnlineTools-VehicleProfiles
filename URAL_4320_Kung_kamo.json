@@ -1,0 +1,23 @@
+{
+    "VehicleName": "URAL_4320_Kung_kamo",
+    "DisplayName": "URAL_4320_Kung_kamo",
+    "Parts": [
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Wheel",
+        "URAL_4320_Doors_Driver_Kung_kamo",
+        "URAL_4320_Doors_coDriver_Kung_kamo",
+        "URAL_4320_Doors_hood_Kung_kamo",
+        "URAL_4320_Doors_trunk_Kung_kamo",
+        "URAL_4320_tent_Kung_kamo",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

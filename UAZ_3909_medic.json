@@ -1,0 +1,21 @@
+{
+    "VehicleName": "UAZ_3909_medic",
+    "DisplayName": "UAZ_3909_medic",
+    "Parts": [
+        "UAZ_3909_Wheel",
+        "UAZ_3909_Wheel",
+        "UAZ_3909_Wheel",
+        "UAZ_3909_Wheel",
+        "UAZ_3909_Doors_cargo3_medic",
+        "UAZ_3909_Doors_hood",
+        "UAZ_3909_Doors_cargo2_medic",
+        "UAZ_3909_Doors_cargo1_medic",
+        "UAZ_3909_Doors_coDriver_medic",
+        "UAZ_3909_Doors_Driver_medic",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}
