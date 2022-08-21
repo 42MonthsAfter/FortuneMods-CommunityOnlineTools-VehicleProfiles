@@ -1,0 +1,26 @@
+{
+    "VehicleName": "BTR_white",
+    "DisplayName": "BTR_white",
+    "Parts": [
+        "BTR_Wheel",
+        "BTR_Wheel",
+        "BTR_Wheel",
+        "BTR_Wheel",
+        "BTR_Wheel",
+        "BTR_Wheel",
+        "BTR_Wheel",
+        "BTR_Wheel",
+        "BTR_Doors_Driver_white",
+        "BTR_Doors_coDriver_white",
+        "BTR_Doors_cargo1_white",
+        "BTR_Doors_cargo2_white",
+        "BTR_Doors_cargo3_white",
+        "BTR_Doors_hood1_white",
+        "BTR_Doors_hood2_white",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

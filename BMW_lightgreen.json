@@ -1,0 +1,22 @@
+{
+    "VehicleName": "BMW_lightgreen",
+    "DisplayName": "BMW lightgreen",
+    "Parts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "BMW_Doors_Driver_lightgreen",
+        "BMW_Doors_coDriver_lightgreen",
+        "BMW_Doors_cargo1_lightgreen",
+        "BMW_Doors_cargo2_lightgreen",
+        "BMW_Doors_hood_lightgreen",
+        "BMW_Doors_trunk_lightgreen",
+        "bmw_wheel",
+        "bmw_wheel",
+        "bmw_wheel",
+        "bmw_wheel",
+        "bmw_wheel"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "VehicleName": "EGER_Pixel",
+    "DisplayName": "EGER_Pixel",
+    "Parts": [
+        "EGER_Wheel_2",
+        "EGER_Wheel_2",
+        "EGER_Wheel_2",
+        "EGER_Wheel_2",
+        "EGER_Wheel",
+        "EGER_Wheel",
+        "EGER_Wheel",
+        "EGER_Wheel",
+        "EGER_Pixel_Doors_Driver",
+        "EGER_Pixel_Doors_coDriver",
+        "EGER_Pixel_Doors_cargo1",
+        "EGER_Pixel_Doors_cargo2",
+        "EGER_Pixel_Doors_hood",
+        "EGER_Pixel_Doors_trunk",
+        "EGER_Pixel_Tent",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

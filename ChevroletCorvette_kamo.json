@@ -1,0 +1,20 @@
+{
+    "VehicleName": "ChevroletCorvette_kamo",
+    "DisplayName": "ChevroletCorvette_kamo",
+    "Parts": [
+        "ChevroletCorvette_Wheel",
+        "ChevroletCorvette_Wheel",
+        "ChevroletCorvette_Wheel",
+        "ChevroletCorvette_Wheel",
+        "ChevroletCorvette_Wheel",
+        "ChevroletCorvette_Doors_kamo",
+        "ChevroletCorvette_Doors_kamo",
+        "ChevroletCorvette_Doors_hood_kamo",
+        "ChevroletCorvette_Doors_trunk_kamo",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

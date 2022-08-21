@@ -1,0 +1,20 @@
+{
+    "VehicleName": "ChevroletCorvette_yellow",
+    "DisplayName": "ChevroletCorvette_yellow",
+    "Parts": [
+        "ChevroletCorvette_Wheel",
+        "ChevroletCorvette_Wheel",
+        "ChevroletCorvette_Wheel",
+        "ChevroletCorvette_Wheel",
+        "ChevroletCorvette_Wheel",
+        "ChevroletCorvette_Doors_yellow",
+        "ChevroletCorvette_Doors_yellow",
+        "ChevroletCorvette_Doors_hood_yellow",
+        "ChevroletCorvette_Doors_trunk_yellow",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

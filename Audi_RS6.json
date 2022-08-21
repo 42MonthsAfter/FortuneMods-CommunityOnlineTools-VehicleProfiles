@@ -1,0 +1,20 @@
+{
+    "VehicleName": "Audi_RS6",
+    "DisplayName": "Audi_RS6",
+    "Parts": [
+        "Audi_RS6_Wheel",
+        "Audi_RS6_Wheel",
+        "Audi_RS6_Wheel",
+        "Audi_RS6_Wheel",
+        "Audi_RS6_Doors_hood",
+        "Audi_RS6_Doors_cargo2",
+        "Audi_RS6_Doors_cargo1",
+        "Audi_RS6_Doors_coDriver",
+        "Audi_RS6_Doors_Driver",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

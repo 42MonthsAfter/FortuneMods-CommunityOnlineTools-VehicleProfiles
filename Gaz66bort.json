@@ -1,0 +1,20 @@
+{
+    "VehicleName": "Gaz66bort",
+    "DisplayName": "Gaz66bort",
+    "Parts": [
+        "GAZ66_Wheel",
+        "GAZ66_Wheel",
+        "GAZ66_Wheel",
+        "GAZ66_Wheel",
+        "GAZ66_Wheel",
+        "GAZ66_Doors_Driver",
+        "GAZ66_Doors_coDriver",
+        "GAZ66_Doors_trunk",
+        "GAZ66tent",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

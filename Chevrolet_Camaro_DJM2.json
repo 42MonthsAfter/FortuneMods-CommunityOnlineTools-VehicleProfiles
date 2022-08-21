@@ -1,0 +1,21 @@
+{
+    "VehicleName": "Chevrolet_Camaro_DJM2",
+    "DisplayName": "Chevrolet_Camaro_DJM2",
+    "Parts": [
+        "Chevrolet_Camaro_Wheel",
+        "Chevrolet_Camaro_Wheel",
+        "Chevrolet_Camaro_Wheel",
+        "Chevrolet_Camaro_Wheel",
+        "Chevrolet_Camaro_Wheel",
+        "Chevrolet_Camaro_Doors_Driver_DJM2",
+        "Chevrolet_Camaro_Doors_coDriver_DJM2",
+        "Chevrolet_Camaro_Doors_hood_DJM2",
+        "Chevrolet_Camaro_Doors_trunk_DJM2",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

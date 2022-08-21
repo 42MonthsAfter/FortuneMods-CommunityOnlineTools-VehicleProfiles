@@ -1,0 +1,20 @@
+{
+    "VehicleName": "Fennek_BIOHAZARD",
+    "DisplayName": "Fennek BIOHAZARD",
+    "Parts": [
+        "Fennek_Wheel_BIOHAZARD",
+        "Fennek_Wheel_BIOHAZARD",
+        "Fennek_Wheel_BIOHAZARD",
+        "Fennek_Wheel_BIOHAZARD",
+        "Fennek_Wheel_BIOHAZARD",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Fennek_Doors_Driver_BIOHAZARD",
+        "Fennek_Doors_coDriver_BIOHAZARD",
+        "Fennek_Doors_hood_BIOHAZARD",
+        "Fennek_Doors_trunk_BIOHAZARD"
+    ]
+}

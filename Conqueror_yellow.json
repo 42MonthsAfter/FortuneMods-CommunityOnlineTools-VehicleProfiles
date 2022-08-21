@@ -1,0 +1,21 @@
+{
+    "VehicleName": "Conqueror_yellow",
+    "DisplayName": "Conqueror_yellow",
+    "Parts": [
+        "Conqueror_Wheel",
+        "Conqueror_Wheel",
+        "Conqueror_Wheel",
+        "Conqueror_Wheel",
+        "Conqueror_Wheel",
+        "Conqueror_Tent_yellow",
+        "Conqueror_Doors_Driver_yellow",
+        "Conqueror_Doors_coDriver_yellow",
+        "Conqueror_Doors_hood_yellow",
+        "Conqueror_Doors_trunk_yellow",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

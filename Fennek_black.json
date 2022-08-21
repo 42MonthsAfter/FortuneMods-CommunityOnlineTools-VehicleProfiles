@@ -1,0 +1,20 @@
+{
+    "VehicleName": "Fennek_black",
+    "DisplayName": "Fennek black",
+    "Parts": [
+        "Fennek_Wheel",
+        "Fennek_Wheel",
+        "Fennek_Wheel",
+        "Fennek_Wheel",
+        "Fennek_Wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Fennek_Doors_Driver_black",
+        "Fennek_Doors_coDriver_black",
+        "Fennek_Doors_hood_black",
+        "Fennek_Doors_trunk_black"
+    ]
+}

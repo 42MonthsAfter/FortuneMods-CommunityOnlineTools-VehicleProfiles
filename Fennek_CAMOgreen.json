@@ -1,0 +1,20 @@
+{
+    "VehicleName": "Fennek_CAMOgreen",
+    "DisplayName": "Fennek CAMOgreen",
+    "Parts": [
+        "Fennek_Wheel_CAMOgreen",
+        "Fennek_Wheel_CAMOgreen",
+        "Fennek_Wheel_CAMOgreen",
+        "Fennek_Wheel_CAMOgreen",
+        "Fennek_Wheel_CAMOgreen",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Fennek_Doors_Driver_CAMOgreen",
+        "Fennek_Doors_coDriver_CAMOgreen",
+        "Fennek_Doors_hood_CAMOgreen",
+        "Fennek_Doors_trunk_CAMOgreen"
+    ]
+}

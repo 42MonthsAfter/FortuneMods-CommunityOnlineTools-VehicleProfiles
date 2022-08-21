@@ -1,0 +1,21 @@
+{
+    "VehicleName": "BMW_X5",
+    "DisplayName": "BMW X5",
+    "Parts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "BMW_X5_Doors_Driver",
+        "BMW_X5_Doors_coDriver",
+        "BMW_X5_Doors_cargo1",
+        "BMW_X5_Doors_cargo2",
+        "BMW_X5_Doors_hood",
+        "BMW_X5_Wheel",
+        "BMW_X5_Wheel",
+        "BMW_X5_Wheel",
+        "BMW_X5_Wheel",
+        "BMW_X5_Wheel"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "VehicleName": "BMW_black",
+    "DisplayName": "BMW Black",
+    "Parts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "BMW_Doors_Driver_black",
+        "BMW_Doors_coDriver_black",
+        "BMW_Doors_cargo1_black",
+        "BMW_Doors_cargo2_black",
+        "BMW_Doors_hood_black",
+        "BMW_Doors_trunk_black",
+        "bmw_wheel",
+        "bmw_wheel",
+        "bmw_wheel",
+        "bmw_wheel",
+        "bmw_wheel"
+    ]
+}

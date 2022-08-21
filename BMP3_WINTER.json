@@ -1,0 +1,27 @@
+{
+    "VehicleName": "BMP3_WINTER",
+    "DisplayName": "BMP3_WINTER",
+    "Parts": [
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Doors_Driver_WINTER",
+        "BMP3_Doors_coDriver_WINTER",
+        "BMP3_Doors_hood_WINTER",
+        "AmmoRoket",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

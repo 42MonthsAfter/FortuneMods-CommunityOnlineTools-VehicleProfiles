@@ -1,0 +1,30 @@
+{
+    "VehicleName": "Gaz71_RUST",
+    "DisplayName": "Gaz71_RUST",
+    "Parts": [
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Doors_hood_RUST",
+        "Gaz71_Doors_coDriver_RUST",
+        "Gaz71_Doors_Driver_RUST",
+        "Gaz71_Doors_trunk_RUST",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "VehicleName": "Buggy_red",
+    "DisplayName": "Buggy_red",
+    "Parts": [
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Doors_coDriver_red",
+        "Buggy_Doors_Driver_red",
+        "SparkPlug",
+        "CarBattery",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

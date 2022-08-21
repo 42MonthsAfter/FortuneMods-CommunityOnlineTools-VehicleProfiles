@@ -1,0 +1,30 @@
+{
+    "VehicleName": "Gaz71_thornbush",
+    "DisplayName": "Gaz71_thornbush",
+    "Parts": [
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Doors_hood_thornbush",
+        "Gaz71_Doors_coDriver_thornbush",
+        "Gaz71_Doors_Driver_thornbush",
+        "Gaz71_Doors_trunk_thornbush",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

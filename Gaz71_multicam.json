@@ -1,0 +1,30 @@
+{
+    "VehicleName": "Gaz71_multicam",
+    "DisplayName": "Gaz71_multicam",
+    "Parts": [
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Doors_hood_multicam",
+        "Gaz71_Doors_coDriver_multicam",
+        "Gaz71_Doors_Driver_multicam",
+        "Gaz71_Doors_trunk_multicam",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

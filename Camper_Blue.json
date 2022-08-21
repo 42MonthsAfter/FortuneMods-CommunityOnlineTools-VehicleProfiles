@@ -1,0 +1,20 @@
+{
+    "VehicleName": "Camper_Blue",
+    "DisplayName": "Camper_Blue",
+    "Parts": [
+        "Camper_Wheel",
+        "Camper_Wheel",
+        "Camper_Wheel",
+        "Camper_Wheel",
+        "Camper_Wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Camper_Doors_Driver_Blue",
+        "Camper_Doors_coDriver_Blue",
+        "Camper_Doors_hood_Blue",
+        "Camper_Doors_cargo1"
+    ]
+}

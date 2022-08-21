@@ -1,0 +1,21 @@
+{
+    "VehicleName": "Conqueror_kamo1",
+    "DisplayName": "Conqueror_kamo1",
+    "Parts": [
+        "Conqueror_Wheel",
+        "Conqueror_Wheel",
+        "Conqueror_Wheel",
+        "Conqueror_Wheel",
+        "Conqueror_Wheel",
+        "Conqueror_Tent_kamo1",
+        "Conqueror_Doors_Driver_kamo1",
+        "Conqueror_Doors_coDriver_kamo1",
+        "Conqueror_Doors_hood_kamo1",
+        "Conqueror_Doors_trunk_kamo1",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

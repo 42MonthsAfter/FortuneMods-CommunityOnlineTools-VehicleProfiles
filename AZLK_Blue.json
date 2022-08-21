@@ -1,0 +1,22 @@
+{
+    "VehicleName": "AZLK_Blue",
+    "DisplayName": "AZLK_Blue",
+    "Parts": [
+        "AZLK_Wheel",
+        "AZLK_Wheel",
+        "AZLK_Wheel",
+        "AZLK_Wheel",
+        "AZLK_Wheel",
+        "AZLK_Doors_hood_Blue",
+        "AZLK_Doors_trunk_Blue",
+        "AZLK_Doors_cargo1_Blue",
+        "AZLK_Doors_cargo2_Blue",
+        "AZLK_Doors_coDriver_Blue",
+        "AZLK_Doors_Driver_Blue",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

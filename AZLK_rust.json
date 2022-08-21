@@ -1,0 +1,22 @@
+{
+    "VehicleName": "AZLK_rust",
+    "DisplayName": "AZLK_rust",
+    "Parts": [
+        "AZLK_Wheel",
+        "AZLK_Wheel",
+        "AZLK_Wheel",
+        "AZLK_Wheel",
+        "AZLK_Wheel",
+        "AZLK_Doors_hood_rust",
+        "AZLK_Doors_trunk_rust",
+        "AZLK_Doors_cargo1_rust",
+        "AZLK_Doors_cargo2_rust",
+        "AZLK_Doors_coDriver_rust",
+        "AZLK_Doors_Driver_rust",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "VehicleName": "Audi_RS6_WINTER",
+    "DisplayName": "Audi_RS6_WINTER",
+    "Parts": [
+        "Audi_RS6_Wheel",
+        "Audi_RS6_Wheel",
+        "Audi_RS6_Wheel",
+        "Audi_RS6_Wheel",
+        "Audi_RS6_Doors_hood_WINTER",
+        "Audi_RS6_Doors_cargo2_WINTER",
+        "Audi_RS6_Doors_cargo1_WINTER",
+        "Audi_RS6_Doors_coDriver_WINTER",
+        "Audi_RS6_Doors_Driver_WINTER",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

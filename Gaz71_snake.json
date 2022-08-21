@@ -1,0 +1,30 @@
+{
+    "VehicleName": "Gaz71_snake",
+    "DisplayName": "Gaz71_snake",
+    "Parts": [
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Doors_hood_snake",
+        "Gaz71_Doors_coDriver_snake",
+        "Gaz71_Doors_Driver_snake",
+        "Gaz71_Doors_trunk_snake",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

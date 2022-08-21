@@ -1,0 +1,27 @@
+{
+    "VehicleName": "BMP3_Pixel",
+    "DisplayName": "BMP3_Pixel",
+    "Parts": [
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Doors_Driver_Pixel",
+        "BMP3_Doors_coDriver_Pixel",
+        "BMP3_Doors_hood_Pixel",
+        "AmmoRoket",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

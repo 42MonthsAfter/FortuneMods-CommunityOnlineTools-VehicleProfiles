@@ -1,0 +1,22 @@
+{
+    "VehicleName": "BMW_black_rust",
+    "DisplayName": "BMW white rust",
+    "Parts": [
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "BMW_Doors_Driver_black_rust",
+        "BMW_Doors_coDriver_black_rust",
+        "BMW_Doors_cargo1_black_rust",
+        "BMW_Doors_cargo2_black_rust",
+        "BMW_Doors_hood_black_rust",
+        "BMW_Doors_trunk_black_rust",
+        "bmw_wheel",
+        "bmw_wheel",
+        "bmw_wheel",
+        "bmw_wheel",
+        "bmw_wheel"
+    ]
+}

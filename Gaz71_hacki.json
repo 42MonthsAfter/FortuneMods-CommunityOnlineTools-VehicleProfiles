@@ -1,0 +1,30 @@
+{
+    "VehicleName": "Gaz71_hacki",
+    "DisplayName": "Gaz71_hacki",
+    "Parts": [
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Wheel",
+        "Gaz71_Doors_hood_hacki",
+        "Gaz71_Doors_coDriver_hacki",
+        "Gaz71_Doors_Driver_hacki",
+        "Gaz71_Doors_trunk_hacki",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

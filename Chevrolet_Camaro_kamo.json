@@ -1,0 +1,21 @@
+{
+    "VehicleName": "Chevrolet_Camaro_kamo",
+    "DisplayName": "Chevrolet_Camaro_kamo",
+    "Parts": [
+        "Chevrolet_Camaro_Wheel",
+        "Chevrolet_Camaro_Wheel",
+        "Chevrolet_Camaro_Wheel",
+        "Chevrolet_Camaro_Wheel",
+        "Chevrolet_Camaro_Wheel",
+        "Chevrolet_Camaro_Doors_Driver_kamo",
+        "Chevrolet_Camaro_Doors_coDriver_kamo",
+        "Chevrolet_Camaro_Doors_hood_kamo",
+        "Chevrolet_Camaro_Doors_trunk_kamo",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

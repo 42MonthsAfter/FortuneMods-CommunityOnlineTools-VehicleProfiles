@@ -1,0 +1,20 @@
+{
+    "VehicleName": "Fennek_WINTER",
+    "DisplayName": "Fennek WINTER",
+    "Parts": [
+        "Fennek_Wheel_WINTER",
+        "Fennek_Wheel_WINTER",
+        "Fennek_Wheel_WINTER",
+        "Fennek_Wheel_WINTER",
+        "Fennek_Wheel_WINTER",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Fennek_Doors_Driver_WINTER",
+        "Fennek_Doors_coDriver_WINTER",
+        "Fennek_Doors_hood_WINTER",
+        "Fennek_Doors_trunk_WINTER"
+    ]
+}

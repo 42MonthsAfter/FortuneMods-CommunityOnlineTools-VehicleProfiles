@@ -1,0 +1,27 @@
+{
+    "VehicleName": "BMP3_Woodland",
+    "DisplayName": "BMP3_Woodland",
+    "Parts": [
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Wheel",
+        "BMP3_Doors_Driver_Woodland",
+        "BMP3_Doors_coDriver_Woodland",
+        "BMP3_Doors_hood_Woodland",
+        "AmmoRoket",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

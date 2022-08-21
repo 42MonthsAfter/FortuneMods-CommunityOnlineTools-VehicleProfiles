@@ -1,0 +1,20 @@
+{
+    "VehicleName": "Audi_RS6_flecktarn",
+    "DisplayName": "Audi_RS6_flecktarn",
+    "Parts": [
+        "Audi_RS6_Wheel",
+        "Audi_RS6_Wheel",
+        "Audi_RS6_Wheel",
+        "Audi_RS6_Wheel",
+        "Audi_RS6_Doors_hood_flecktarn",
+        "Audi_RS6_Doors_cargo2_flecktarn",
+        "Audi_RS6_Doors_cargo1_flecktarn",
+        "Audi_RS6_Doors_coDriver_flecktarn",
+        "Audi_RS6_Doors_Driver_flecktarn",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

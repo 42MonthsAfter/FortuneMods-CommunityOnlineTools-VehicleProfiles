@@ -1,0 +1,20 @@
+{
+    "VehicleName": "Fennek_RUST",
+    "DisplayName": "Fennek RUST",
+    "Parts": [
+        "Fennek_Wheel_RUST",
+        "Fennek_Wheel_RUST",
+        "Fennek_Wheel_RUST",
+        "Fennek_Wheel_RUST",
+        "Fennek_Wheel_RUST",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Fennek_Doors_Driver_RUST",
+        "Fennek_Doors_coDriver_RUST",
+        "Fennek_Doors_hood_RUST",
+        "Fennek_Doors_trunk_RUST"
+    ]
+}

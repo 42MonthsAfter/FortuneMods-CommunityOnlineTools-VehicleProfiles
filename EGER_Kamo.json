@@ -1,0 +1,27 @@
+{
+    "VehicleName": "EGER_Kamo",
+    "DisplayName": "EGER_Kamo",
+    "Parts": [
+        "EGER_Wheel_2",
+        "EGER_Wheel_2",
+        "EGER_Wheel_2",
+        "EGER_Wheel_2",
+        "EGER_Wheel",
+        "EGER_Wheel",
+        "EGER_Wheel",
+        "EGER_Wheel",
+        "EGER_Kamo_Doors_Driver",
+        "EGER_Kamo_Doors_coDriver",
+        "EGER_Kamo_Doors_cargo1",
+        "EGER_Kamo_Doors_cargo2",
+        "EGER_Kamo_Doors_hood",
+        "EGER_Kamo_Doors_trunk",
+        "EGER_Kamo_Tent",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

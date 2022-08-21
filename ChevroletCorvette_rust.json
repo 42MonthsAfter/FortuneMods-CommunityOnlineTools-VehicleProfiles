@@ -1,0 +1,20 @@
+{
+    "VehicleName": "ChevroletCorvette_rust",
+    "DisplayName": "ChevroletCorvette_rust",
+    "Parts": [
+        "ChevroletCorvette_Wheel",
+        "ChevroletCorvette_Wheel",
+        "ChevroletCorvette_Wheel",
+        "ChevroletCorvette_Wheel",
+        "ChevroletCorvette_Wheel",
+        "ChevroletCorvette_Doors_rust",
+        "ChevroletCorvette_Doors_rust",
+        "ChevroletCorvette_Doors_hood_rust",
+        "ChevroletCorvette_Doors_trunk_rust",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

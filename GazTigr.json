@@ -1,0 +1,21 @@
+{
+    "VehicleName": "GazTigr",
+    "DisplayName": "GazTigr",
+    "Parts": [
+        "GazTigr_Wheel",
+        "GazTigr_Wheel",
+        "GazTigr_Wheel",
+        "GazTigr_Wheel",
+        "GazTigr_Wheel",
+        "GazTigr_Doors_Driver",
+        "GazTigr_Doors_coDriver",
+        "GazTigr_Doors_hood",
+        "GazTigr_Doors_cargo1",
+        "GazTigr_Doors_cargo2",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}
